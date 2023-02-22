@@ -1,4 +1,3 @@
-:use paste
 #include "shell.h"
 
 /**
